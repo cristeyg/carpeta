@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T16:13:52.229Z" agent="5.0 (Windows)" etag="6bMuf-Gq7nwIibGPmjEW" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T19:53:25.874Z" agent="5.0 (Windows)" etag="uclMZy-rqThkxEpi-uVa" version="14.8.6" type="github">
   <diagram id="hN0aefmyA_We_JmufSh0" name="Page-1">
     <mxGraphModel dx="2007" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
         <mxCell id="cjmuB6YrTmtaZ9WCXlC1-14" value="Web Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="323.13" width="56.75" height="53.25" as="geometry" />
         </mxCell>
-        <mxCell id="cjmuB6YrTmtaZ9WCXlC1-19" value="web Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="cjmuB6YrTmtaZ9WCXlC1-19" value="App Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="140" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjmuB6YrTmtaZ9WCXlC1-20" value="Web Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="cjmuB6YrTmtaZ9WCXlC1-20" value="App Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="320.25" width="60" height="59.75" as="geometry" />
         </mxCell>
         <mxCell id="cjmuB6YrTmtaZ9WCXlC1-21" value="Elastic Load Balancer" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
